@@ -3,6 +3,7 @@ rencana
 - javascript
   +ES6
   +framework javascript
+  struktur data dasar
 - php framework
 - interview
 - vlog
