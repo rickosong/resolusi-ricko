@@ -3,8 +3,9 @@ rencana
 - javascript
   +ES6
   +framework javascript
-  - angular
+  - vue
   - react
+  struktur data dasar
 - php framework
   - laravel
 - interview
